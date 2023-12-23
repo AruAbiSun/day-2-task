@@ -1,0 +1,1 @@
+the difference between document and window object: https://medium.com/@arunapoopathi/document-object-1a97015be634
